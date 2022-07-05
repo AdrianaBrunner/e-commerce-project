@@ -3,3 +3,12 @@
 *{
     font-family: 'TheGoodMonolith', sans-serif;
 }
+
+.first-items {
+    display: flex;
+    flex-direction: row;
+}
+.info-items  {
+    display: flex;
+    flex-direction: row;
+}
