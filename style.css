@@ -4,7 +4,8 @@
     font-family: 'TheGoodMonolith', sans-serif;
 }
 
-.first-items {
+.first-items,
+.second-items {
     display: flex;
     flex-direction: row;
 }
